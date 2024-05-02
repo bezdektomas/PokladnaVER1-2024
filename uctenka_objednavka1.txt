@@ -1,0 +1,18 @@
+        ID objednávky: 	1
+####################################
+
+Big Mac Menu 
+ Salát 
+ CocaCola 
+ Sýrové kroužky               168 Kè
+
+Keèup                         5   Kè
+
+Hamburger                     33  Kè
+
+Sýrová omáèka                 15  Kè
+
+  Celková cena objednávky: 221 Kè
+####################################
+
+	Dìkujeme za návštìvu.
